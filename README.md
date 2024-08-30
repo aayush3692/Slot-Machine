@@ -37,7 +37,7 @@ The slot machine uses the following symbols and payout values:
 1. **Clone the repository**:
 
     ```bash
-    git clone [https://github.com/aayush3692/Slot-Machine]
+    git clone https://github.com/aayush3692/Slot-Machine
     ```
 
 2. **Navigate to the project directory**:
